@@ -1,0 +1,41 @@
+h1{
+	background-color: royalblue;
+	margin: 20px;
+	padding: 10px;
+	border: solid;
+}
+p{
+	font-family:transitional serif;
+}
+body{
+	background-color: skyblue;
+}
+h2{
+	border: dotted;
+	background-color: royalblue;
+	font-family: transitional serif;
+	display: inline-block;
+	padding: 15px;
+	margin: 15px;
+}
+
+nav {
+	background-color: skyblue;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li{
+	display: inline-block;
+}
+footer{
+	background-color: 	black;
+	color: 	white;
+	font-size: 20px;
+	padding: 	20px;
+}
+
